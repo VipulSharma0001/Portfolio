@@ -2,9 +2,7 @@
 
 This repository contains the source code for my personal portfolio website. The website showcases my skills, projects, and services.
 
-## Preview
 
-![Portfolio Website Preview](./images/screenshot.png)
 
 ## Features
 
@@ -27,12 +25,12 @@ This repository contains the source code for my personal portfolio website. The 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone [https://github.com/your-username/portfolio-website.git](https://github.com/VipulSharma0001/Portfolio/tree/main/codesof%20level1%20portfolio)
    Open the Project:
 
-Navigate to the project folder.
+**2.Navigate to the project folder.**
 Open index.html in your preferred web browser.
 Explore the Website:
 
-Interact with different sections using the navigation bar.
-Feel free to fill out the contact form to reach out to me.
+**Interact with different sections using the navigation bar.**
+
