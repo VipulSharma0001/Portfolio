@@ -1,59 +1,38 @@
-# Portfolio
-# My Portfolio Website
+# Portfolio Website
 
-Welcome to my portfolio website repository! This website serves as a showcase of my skills, projects, and services.
+This repository contains the source code for my personal portfolio website. The website showcases my skills, projects, and services.
 
-## Navigation
+## Preview
 
-- **[Home](#home)**
-- **[About](#about)**
-- **[Services](#services)**
-- **[Contact](#contact)**
-- **[Portfolio](#portfolio)**
+![Portfolio Website Preview](./images/screenshot.png)
 
-## Home
+## Features
 
-[Include a brief introduction about yourself and your expertise.]
+- **Responsive Design:** The website is designed to be fully responsive, ensuring a seamless experience on various devices.
+- **Navigation:** Users can easily navigate through different sections using the navbar, including Home, About, Services, Portfolio, and Contact.
+- **Dynamic Content:** The website features dynamic content with animations, making it visually appealing and engaging.
+- **Contact Form:** Visitors can use the contact form to get in touch with me, providing their name, email, phone number, and a message.
 
-## About
+## Technologies Used
 
-[Provide detailed information about your background, education, skills, and interests.]
+- HTML
+- CSS
+- JavaScript
+- [Boxicons](https://boxicons.com/) - For icons
+- [Typed.js](https://github.com/mattboldt/typed.js/) - For the dynamic typing effect
+- [ScrollReveal](https://scrollrevealjs.org/) - For scroll animations
 
-## Services
-
-[Describe the services you offer. It could be web development, software engineering, consultation, etc. Highlight what makes your services unique and valuable.]
-
-## Contact
-
-### Get in Touch
-
-Feel free to reach out for collaborations, inquiries, or just to say hello!
-
-#### Email
-
-[Your Email Address]
-
-#### LinkedIn
-
-[Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-
-#### GitHub
-
-[Your GitHub Profile](https://github.com/your-username)
-
-#### Phone
-
-[Your Phone Number]
-
-#### Contact Form
-
-You can also use the contact form on the website to get in touch. Provide your information, and I will get back to you as soon as possible.
-
-## How to Run Locally
-
-To run the contact form locally, follow these steps:
+## How to Use
 
 1. **Clone the Repository:**
 
    ```bash
    git clone https://github.com/your-username/portfolio-website.git
+   Open the Project:
+
+Navigate to the project folder.
+Open index.html in your preferred web browser.
+Explore the Website:
+
+Interact with different sections using the navigation bar.
+Feel free to fill out the contact form to reach out to me.
